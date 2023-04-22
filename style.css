@@ -11,7 +11,7 @@
     body {
         margin: 0;
         padding: 0;
-        background-color: black;
+        background-color: lightcyan;
         color: #414142;
         position: relative;
         font-family: monospace;
@@ -312,4 +312,3 @@
 /* Extra Large devices */
 
 @media (min-width: 1200px) {}
-
